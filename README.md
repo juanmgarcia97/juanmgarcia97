@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Express, TypeScript**
 
-- 💬 Ask me about **Java, Spring**
-
 - 📫 How to reach me **juanmar-p@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
