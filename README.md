@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Martin Garcia</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Express, TypeScript**
+- 🌱 I’m currently learning **Express, TypeScript**, **Angular**
 
 - 📫 How to reach me **juanmar-p@hotmail.com**
 
